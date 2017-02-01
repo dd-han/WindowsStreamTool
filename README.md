@@ -2,7 +2,7 @@
 
 僅供個人備份用，看得懂就拿去用，看不懂我也不會說明
 
-如果需要專業實況，請聯絡 FB 粉專 (可以教我玩音樂遊戲嗎？)[https://www.facebook.com/JiaoMaChannel] 或是 (音樂遊戲實況屋 -ABC Project-)[https://www.facebook.com/DJABCchannel] ，也可以搜尋我們的 YouTube 頻道，裡面有過往的實況錄影，可供您參考。
+如果需要專業實況，請聯絡 FB 粉專 [可以教我玩音樂遊戲嗎？](https://www.facebook.com/JiaoMaChannel) 或是 [音樂遊戲實況屋 -ABC Project-](https://www.facebook.com/DJABCchannel) ，也可以搜尋我們的 YouTube 頻道，裡面有過往的實況錄影，可供您參考。
 
 
 ## 使用注意事項：
