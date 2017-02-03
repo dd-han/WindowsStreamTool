@@ -1,5 +1,7 @@
 @echo off
 chcp 65001
+
+@echo off
 set locker=live.lock
 
 del %locker%
